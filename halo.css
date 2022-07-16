@@ -1,0 +1,32 @@
+body{
+    background-color: salmon;
+    background-color: orange;
+    background-color: #fff;
+
+
+    color: white;
+
+
+    position: relative;
+    position: absolute;
+
+
+    width: 100%;
+    height: 100%;
+
+    
+    top: 0;
+    left: 0;
+    top: 50%;
+
+
+    margin-left: 20px;
+    margin: auto;
+
+
+    font-weight: bold;
+    text-align: center;
+
+
+    border-right: 2px solid black;
+}
